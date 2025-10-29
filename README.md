@@ -69,7 +69,7 @@ This system automates the process of discovering and following Spotify playlists
 </p>
 <p align="center">
   <a href="https://bitbash.dev" target="_blank">
-    <img src="spotify-playlist-follower-bot-architecture.png" alt="spotify-playlist-follower-bot-architecture" width="95%">
+    <img src="spotify-playlist-follower-bot-architecture.png" alt="spotify-playlist-follower-bot-architecture" width="65%">
   </a>
 </p>
 
